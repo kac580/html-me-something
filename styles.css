@@ -1,0 +1,36 @@
+
+
+
+
+body {
+  background-color: wheat;
+  
+}
+
+
+main {
+    height: 550px;
+    width: 100%;
+    column-count: 2;
+    
+  }
+
+#p1 {
+  color: black;
+}
+  p.beginning {
+    color: purple;
+  }
+
+  h {
+    color: navy;
+    margin-left: 25px;
+    font-family: cursive;
+    font-size: 160%;
+  }
+
+  p {
+    padding: 5px;
+    color: blue;
+    font-family: Verdana;
+  }
